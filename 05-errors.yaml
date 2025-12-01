@@ -5,8 +5,7 @@ metadata:
  name: error-test
 
 spec:
-
- containers:
+  containers:
   - name: nginx
     image: 88838
   - name: almalinux
