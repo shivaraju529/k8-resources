@@ -3,10 +3,9 @@ kind: Pod
 
 metadata:
  name: error-test
-
 spec:
   containers:
   - name: nginx
-    image: 88838
-  - name: almalinux
-    image: almalinux:9
+    image: ajdjjedjj
+  # - name: almalinux
+  #   image: almalinux:9
