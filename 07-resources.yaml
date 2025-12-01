@@ -8,14 +8,14 @@ spec:
  - name: nginx
    image: nginx
    resources:
-      request:
+      requests:
        memory: "68Mi"
        cpu: "100m" # 1/10th of cpu
       
       limits:
        memory: "100Mi"
        cpu: "120m"
-       
+
 
 
       
