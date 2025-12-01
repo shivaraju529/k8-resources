@@ -2,9 +2,9 @@ apiversion : v1
 kind: Pod
 
 metadata:
- name: multicontainer
+ name: multcontainer
  labels:
-  purpose: multicontainer
+  purpose: multcontainer
 
 spec:
   containers:
